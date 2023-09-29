@@ -1,0 +1,280 @@
+.header{
+    position:fixed;
+    z-index: 10;
+    background-color:transparent; 
+    color:aliceblue; 
+    height: 50px; 
+    width: 180px; 
+    border-color: transparent;
+    text-align: left;
+}
+
+.apply{
+    position:fixed;
+    right:0px;
+    z-index: 10;
+    background-color:chartreuse; 
+    color:black; 
+    height: 50px; 
+    width: 180px; 
+    border-color: black;
+    float: right;
+    border-radius: 50%;
+}
+
+.announce {
+    background-color: blueviolet;
+    background-position: center;
+    color: aliceblue;
+    text-align: center;
+    padding: 5px;
+    height: 40px;
+
+}
+
+.path{background-color :black;
+    background-position: center;
+    color:white;
+    text-align:center;
+    padding: 10px;
+    height: 40px;
+    font-style:oblique;
+}
+
+.games{
+    border: 1px solid rgb(0, 0, 0) ;
+    width: 257px;
+    height: 50px;
+    margin: auto;
+    background-color: purple;
+    text-align: center;
+}
+.games:hover{
+    opacity: .7;
+}
+    
+.media{
+    border: 1px solid rgb(0, 0, 0) ;
+    margin: auto;
+    background-color: purple;
+    text-align: center;
+    width: 257px;
+    height: 50px;
+}
+.media:hover{
+    opacity: .7;
+}
+    
+.music{
+    border: 1px solid rgb(0, 0, 0) ;
+    margin: auto;
+    background-color: purple;
+    text-align: center;
+    width: 257px;
+    height: 50px;
+}
+.music:hover{
+    opacity: .7;
+}
+    
+.computing{
+    border: 1px solid rgb(0, 0, 0) ;
+    margin: auto;
+    background-color: purple;
+    text-align: center;
+    width: 257px;
+    height: 50px;
+}
+.computing:hover{
+    opacity: .7;
+}
+    
+.esports{
+    border: 1px solid rgb(0, 0, 0) ;
+    margin: auto;
+    background-color: purple;
+    text-align: center;
+    width: 257px;
+    height: 50px;
+}
+.esports:hover{
+    opacity: .7;
+}
+    
+.accesstohe{
+    border: 1px solid rgb(0, 0, 0) ;
+    margin: auto;
+    background-color: purple;
+    text-align: center;
+    width: 257px;
+    height: 50px;
+}
+.accesstohe:hover{
+    opacity: .7;
+}
+    
+.events{
+    border: 1px solid rgb(0, 0, 0) ;
+    margin: auto;
+    background-color: purple;
+    text-align: center;
+    width: 257px;
+    height: 50px;
+}
+.events:hover{
+    opacity: .7;
+}
+
+.pic{
+    padding:25px;
+    height: 350px;
+        
+    width:1850px;
+}
+        
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    height:500px;
+}
+        
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+        
+
+.poo{
+    position:fixed;
+}
+
+.girl_singing{
+    width: 438px;
+    height:438px;
+}
+.girl_singing:hover{
+    opacity: .7;
+    opacity: aqua;
+}
+
+.woman{
+    width:438px;
+    height:438px;
+}
+.woman:hover{
+    opacity: .7;
+}
+.two_of_four{
+    width:438px;
+    height:438px;
+}
+.two_of_four:hover{
+    opacity: .7;
+}
+
+.three_of_four{
+    width:438px;
+    height:438px;
+}
+.three_of_four:hover{
+    opacity: .7;
+}
+
+.above_footer{
+    color:aliceblue;
+}
+.above{
+    color:aliceblue;
+}
+
+.pics{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:center;
+}
+
+.insta{
+    background-position: center;
+    text-align: center;
+    color: aliceblue;
+    font-size:55px;
+}
+.see{
+    color:chartreuse;
+    background-color: black;
+    border-color: black;
+    background-position: center;
+    text-align: center;
+}
+
+.pics{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:center;
+}
+    
+.applybtn{
+    float: right;
+    z-index: 10;
+    right:0px;
+}
+    
+    
+.above_footer{
+    color:aliceblue;
+    font-size: 30px;
+}
+.above{
+    color:aliceblue;
+}
+    
+.dudes{
+    padding:10px;
+}
+    
+.policiesprocedures{
+    float: right;
+    z-index: 10;
+    right:0px;
+    }
+    
+.about{
+    float: right;
+    z-index: 10;
+    right:0px;
+}
+    
+.contact{
+    float: right;
+    z-index: 10;
+    right:0px;
+}
+    
+.inspections{
+    float: right;
+    z-index: 10;
+    right:0px;
+}
+    
+.gpg{
+    float: right;
+    z-index: 10;
+    right:0px;
+}
+    
+.jobs{
+    float: right;
+    -index: 10;
+    right:0px;
+}
+    
+.safeguarding{
+    float: right;
+    z-index: 10;
+    right:0px;
+}
